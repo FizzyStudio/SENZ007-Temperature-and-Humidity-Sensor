@@ -2,11 +2,11 @@
 
 ###### Translation
 
-> For `English`, please click [`here.`](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/README.md)
+> For `English`, please click [`here.`](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/README.md)
 
-> For `Chinese`, please click [`here.`](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/README_CN.md)
+> For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007.jpg "SENZ007")
+![](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007.jpg "SENZ007")
 
 
 ### Introduction
@@ -32,11 +32,11 @@
 |GND|GND||
 |DO|Digital pin|Digital Output|
 
-![](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007_pin.jpg "Pin Definition") 
+![](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007_pin.jpg "Pin Definition") 
 
 #### Connecting Diagram
 
-![](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007_connect.png "Connecting Diagram") 
+![](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007_connect.png "Connecting Diagram") 
 
 #### Sample Code
 
