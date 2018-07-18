@@ -2,11 +2,11 @@
 
 ###### 翻译
 
-> `英文`请参考 [`这里`](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/README.md).
+> `英文`请参考 [`这里`](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/README.md).
 
-> `中文`请参考 [`这里`](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/README_CN.md).
+> `中文`请参考 [`这里`](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/README_CN.md).
 
-![](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007.jpg "SENZ007")
+![](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007.jpg "SENZ007")
  
 
 ### 产品介绍
@@ -37,12 +37,12 @@
 
 
 
-![](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007_pin.jpg "引脚定义") 
+![](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007_pin.jpg "引脚定义") 
 
 
 #### 连线图
 
-![](https://github.com/njustcjj/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007_connect.png "连线图") 
+![](https://github.com/FizzyStudio/SENZ007-Temperature-and-Humidity-Sensor/blob/master/pic/SENZ007_connect.png "连线图") 
 
 
 ### 示例代码
